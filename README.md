@@ -1,4 +1,4 @@
-# atlasDNGS-BRp1-Scientific
+# AtlasDNGS-BRp1-Scientific
 Atlas das grades DNGS do Brasil, parte 1 - Grades Científicas\
 Processo de documentação DNGS com suporte do QGIS\\
 
