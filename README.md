@@ -1,10 +1,11 @@
-# AtlasDNGS-BRp1-Scientific
-Atlas das grades DNGS do Brasil, parte 1 - Grades Científicas\
-Processo de documentação DNGS com suporte do QGIS
+# Atlas das grades DNGS do Brasil, parte 1 - Grades Científicas
+O Atlas é um documento importante para se entender e utilizar as grades DNGS, está [disponível neste Gdoc](https://docs.google.com/document/d/1g6hSGvYh8of1qNRCccEMcS1aG3DA8Ji2ebZZ4XR34iU/). Neste repositório git temos todos os subsídos para se reproduzir as ilustrações da documentação, construída com suporte do QGIS. Também fazemos uso do site de apoio, para acessar as células da grade; por exemplo https://AFA.codes/BR+d1
 
 O QGIS é utilizado para renderizar os níveis das grades científicas, permitindo padronizar a confecção de imagens exemplos como a ferramenta de "layout".
 
 Utilizando o QGIS, foram renderizadas camadas de grades hierárquicas, partindo do nível 0 até o nível 7,5. O objetivo foi representar visualmente a relação hierárquica entre os níveis, garantindo que cada nível fosse exibido juntamente com seu nível anterior, evidenciando a subdivisão das células.
+
+## Instruções
 
 Para isso, foram aplicados estilos diferenciados:\
 O nível atual recebeu preenchimento com gradiente de cores e rótulos contendo sua codificação.\
