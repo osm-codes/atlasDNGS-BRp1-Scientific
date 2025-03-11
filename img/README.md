@@ -1,1 +1,1 @@
-imagens geradas pelo QGIS semi-automaticamente
+# Imagens geradas pelo QGIS semi-automaticamente
