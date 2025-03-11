@@ -17,4 +17,4 @@ Para representar as células de grade anterior sem preenchimento, configura-se a
 
 Para representar as células da grade atual com preenchimento de gradiente e destaque na célula de interesse, basta criar simbologia baseada em regra, definindo cqual célula destacar com base no seu código, conforme exemplo:
 
-[/exemplos/simbologia.jpg]
+[Exemplo de simbologia!](/exemplos/simbologia.jpg)
