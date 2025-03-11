@@ -18,3 +18,11 @@ Para representar as células de grade anterior sem preenchimento, configura-se a
 Para representar as células da grade atual com preenchimento de gradiente e destaque na célula de interesse, basta criar simbologia baseada em regra, definindo cqual célula destacar com base no seu código, conforme exemplo:
 
 ![Exemplo de simbologia](/exemplos/simbologia.jpg)
+
+Os rótulos pdem ser configurados conforme o tamanho de texto, para isto basta escolher em tamanho conforme exemplo a seguir:
+
+![Exemplo de rótulo](/exemplos/rotulos.jpg)
+
+Uma boa solução para destacar o texto foi aplicar o buffer em contraste com a cor do texto, conforme a imagem abaixo:
+
+![Exemplo de buffer no rótulo](/exemplos/buffer_rotulo.jpg)
