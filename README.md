@@ -53,5 +53,6 @@ Os layouts de impressão utilizados para gerar as imagens utilizadas, também fi
 ![Orientação para abrir os layouts](/exemplos/layout_gpkg.jpg)
 
 Cada layout tem uma configuração de escala e posicionamento quanto as células, escolhido de acordo com a configuração a ser presentando, mantendo boa legibilidade dos rótulos e das grades. Conforme exemplo:
-![Exemplo de configuração do layout](/exemplos/layout.jpg)
+
+![Exemplo de configuração do layout](/exemplos/layout_config.jpg)
 
