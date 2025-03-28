@@ -43,4 +43,5 @@ Para utilizá-lo no QGIS e abrir o projeto salvo, deve-se selecionar a opção p
 ![Orientação para abrir o projeto geopackage](/exemplos/projeto_gpkg.jpg)
 
 Ao selecionar as opções acima, uma aba solicitará a busca pelo arquivo geopackage, o qual deve ser escolhido, e desta forma aparecerá os projetos salvos dentro do arquivo:
+
 ![Orientação para abrir o projeto geopackage](/exemplos/projeto_gpkg1.jpg) 
