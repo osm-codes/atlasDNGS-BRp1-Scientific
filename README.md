@@ -3,7 +3,7 @@ O Atlas é um documento importante para se entender e utilizar as grades DNGS, e
 
 O QGIS é utilizado para renderizar os níveis das grades científicas, permitindo padronizar a confecção de imagens exemplos como a ferramenta de "layout".
 
-Utilizando o QGIS, foram renderizadas camadas de grades hierárquicas, partindo do nível 0 até o nível 7,5. O objetivo foi representar visualmente a relação hierárquica entre os níveis, garantindo que cada nível fosse exibido juntamente com seu nível anterior, evidenciando a subdivisão das células.
+Utilizando o QGIS, foram renderizadas camadas de grades hierárquicas, partindo do nível 0 até o nível 19. O objetivo foi representar visualmente a relação hierárquica entre os níveis, garantindo que cada nível fosse exibido juntamente com seu nível anterior, evidenciando a subdivisão das células.
 
 ## Instruções
 
@@ -45,3 +45,13 @@ Para utilizá-lo no QGIS e abrir o projeto salvo, deve-se selecionar a opção p
 Ao selecionar as opções acima, uma aba solicitará a busca pelo arquivo geopackage, o qual deve ser escolhido, e desta forma aparecerá os projetos salvos dentro do arquivo:
 
 ![Orientação para abrir o projeto geopackage](/exemplos/projeto_gpkg1.jpg) 
+
+É importante que o geopackage não seja movimentado, ou editado pelo sistema de utilização do computador, como trocar de pastar por exemplo, isto desconfigura o projeto, perdendo a relação entre projeto e arquivos vetoriais, tornando necessário configura-las novamente.
+
+Os layouts de impressão utilizados para gerar as imagens utilizadas, também ficam vinculadas ao arquivo geopackage, sendo possível replicá-las e também alterar a partir destas, na seguinte opção:
+
+![Orientação para abrir os layouts](/exemplos/layout_gpkg.jpg)
+
+Cada layout tem uma configuração de escala e posicionamento quanto as células, escolhido de acordo com a configuração a ser presentando, mantendo boa legibilidade dos rótulos e das grades. Conforme exemplo:
+![Exemplo de configuração do layout](/exemplos/layout.jpg)
+
