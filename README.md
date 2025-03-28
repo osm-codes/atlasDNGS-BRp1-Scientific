@@ -30,13 +30,14 @@ Uma boa solução para destacar o texto foi aplicar o buffer em contraste com a 
 
 Além disso, conforme o avanço dos níveis da grade, foi necessário o aumento de escala e portanto foi implementado uma modificação na representação, apresentando um estilo de linha tracejada para destacar a subdivisão de células entre nível anterior e atual.
 Desta forma a confecção de exemplos foi realizada neste padrão, conforme o seguinte exemplo:
-![Exemplo de buffer no rótulo](/img )
+![Exemplo de padrão tracejado das grades](/img )
 
 Todas as configurações utilizadas para produção dos exemplos do Atlas estão armazenadas em um arquivo em formato geopackage, contendo também as geometrias das grades geradas, juntamente com suas configurações de renderização.
-Link do Geopackage:
+Link do Geopackage:![URL do geopackage](/link)
 
 ## Orientações para uso do Geopackage
 
 O geopackage é um formato de arquivo aberto para representação de dados geoespaciais adotado pela Open Geospatial Consortium que funciona como um contêiner SQL, e permite o armazenamento em um único arquivo o projeto do QGIS, seus estidos e camadas e também configurações de layout de impressão.
 
 Para utilizá-lo no QGIS e abrir o projeto salvo, deve-se selecionar a opção projeto e seguir o seguinte exemplo:
+![Orientação para abrir o projeto geopackage](/exemplos/projeto_gpkg.jpg)
