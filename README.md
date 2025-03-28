@@ -41,3 +41,6 @@ O geopackage é um formato de arquivo aberto para representação de dados geoes
 
 Para utilizá-lo no QGIS e abrir o projeto salvo, deve-se selecionar a opção projeto e seguir o seguinte exemplo:
 ![Orientação para abrir o projeto geopackage](/exemplos/projeto_gpkg.jpg)
+
+Ao selecionar as opções acima, uma aba solicitará a busca pelo arquivo geopackage, o qual deve ser escolhido, e desta forma aparecerá os projetos salvos dentro do arquivo:
+![Orientação para abrir o projeto geopackage](/exemplos/projeto_gpkg1.jpg) ![Orientação para abrir o projeto geopackage](/exemplos/projeto_gpkg2.jpg)
