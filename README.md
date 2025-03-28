@@ -14,7 +14,7 @@ O nível anterior foi representado apenas com contorno e rótulos, destacando a 
 Além disso, na imagem de representação isolada do nível atual, uma célula específica foi destacada com cor diferenciada para enfatizar sua identificação.\
 Esse método permite uma visualização clara e organizada da hierarquia das grades, auxiliando na interpretação espacial da subdivisão das células.
 
-Para representar as células de grade anterior sem preenchimento, configura-se a simbologia para representar os polígonos com contornos simpls ou sem preenchimento
+Para representar as células de grade anterior sem preenchimento, configura-se a simbologia para representar os polígonos com contornos simples ou sem preenchimento
 
 Para representar as células da grade atual com preenchimento de gradiente e destaque na célula de interesse, basta criar simbologia baseada em regra, definindo cqual célula destacar com base no seu código, conforme exemplo:
 
